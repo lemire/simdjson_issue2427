@@ -19,6 +19,11 @@ Usage under Windows is similar.
 
 ### Apple M4/LLVM 17
 ```
-./build/benchmark  
 JSON Parsing                                       :   6.29 GB/s
+```
+
+### Intel Ice Lake processor (2GHz base)/GCC12
+
+```
+JSON Parsing                                       :   4.49 GB/s
 ```
