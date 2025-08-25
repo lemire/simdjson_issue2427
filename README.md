@@ -10,6 +10,7 @@ For macOS/Linux, follow the following instructions.
 ```cpp
 cmake -B build
 cmake --build build
+./build/benchmark
 ```
 
 Usage under Windows is similar.
